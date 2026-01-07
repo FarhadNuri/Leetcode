@@ -24,3 +24,6 @@ public:
         return res;
     }
 };
+//https://leetcode.com/problems/3sum-closest/
+// TC: O(n^2) SC: O(1) ignoring the space required for sorting
+// Two Pointers + Sorting
